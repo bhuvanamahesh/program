@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a[10],ch,n,i,j,max=0,c=0;
+    int a[100],ch,n,i,j,max=0,c=0;
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
