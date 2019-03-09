@@ -9,3 +9,5 @@ void main()
 		c=c+1;
 	}
 	printf("%d",c);
+	getch();
+}
