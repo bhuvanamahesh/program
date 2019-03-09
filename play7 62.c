@@ -8,7 +8,7 @@ int main()
 	{
 		if(n%i==0)
 		{
-			x=n/i;
+			c=n/i;
 			if(c%2==1)
 			{
 				printf("%d",i);
